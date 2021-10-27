@@ -28,6 +28,9 @@ const HeroBanner = () => {
                             Resume
                         </a>
                     </div>
+                    <div className="disclaimer">
+                        * If my resume does not load the first time, reload the page <i className="far fa-thumbs-up smiles-icon"></i>
+                    </div>
                 </div>
             </div>
             <div className="right-side-banner">
