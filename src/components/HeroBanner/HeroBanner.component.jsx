@@ -12,7 +12,7 @@ const HeroBanner = () => {
                     <p className="name-james">James N. Hernandez -</p>
                     <p className="name-about">I create Web and Mobile apps for you and me.</p>
                     <div className="bio-links">
-                        <a href="www.linkedin.com/in/james-hernandez-1ab831204" className="button-appearence" style={{backgroundColor:'#3DB2FF'}}
+                        <a href="https://www.linkedin.com/in/james-hernandez-1ab831204" className="button-appearence" style={{backgroundColor:'#3DB2FF'}}
                             target='_blank'>
                             Linkedin
                         </a>
