@@ -4,7 +4,7 @@ const Links = () => {
     return (
         <div className="link-container">
             <div className="bio-links">
-                <a href="www.linkedin.com/in/james-hernandez-1ab831204" className="button-appearence" style={{backgroundColor:'#3DB2FF'}}
+                <a href="https://linkedin.com/in/james-hernandez-1ab831204" className="button-appearence" style={{backgroundColor:'#3DB2FF'}}
                 target='_blank'>
                 Linkedin
                 </a>
